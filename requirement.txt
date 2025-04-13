@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+torch
+torchvision
+torchaudio
+scikit-learn
+pyodbc
+sqlalchemy
+tqdm
+flask
+opencv-contrib-python
+facenet-pytorch
+
+
